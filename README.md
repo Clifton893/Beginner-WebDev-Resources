@@ -9,7 +9,7 @@ If you want to learn to code for free, or are new to how the web works, hopefull
 Yea, you understand the gist of how the Internet works... but do you *really* understand how it works?
 - [Bucky Roberts: "How the Internet Works"](https://www.youtube.com/watch?v=3q4xQss3fRY)
 - [CSS Tricks - "Chapter 1: Birth"](https://css-tricks.com/chapter-1-birth/)
-<-- What is an API? -->
+<!-- What is an API? -->
 
 ### HTML
 - [HTML semantics]()
