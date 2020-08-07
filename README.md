@@ -1,5 +1,7 @@
 # Beginner-WebDev-Resources
-In September 2019, I made the decision to teach myself how to code. I wanted to compile a list of the resources that personally helped me along the way, so that maybe they will help other people beginning to code!
+In September 2019, I made the decision to teach myself how to code. I wanted to compile a list of the resources that personally helped me along the way, so that maybe they will help other people beginning to code.
+
+If you want to learn to code for free, or are new to how the web works, hopefully this repo will help you!
 
 ## Understanding Code
 - [freeCodeCamp](https://www.freecodecamp.org/) `How I first learned anything about code`
