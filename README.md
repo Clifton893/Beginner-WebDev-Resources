@@ -48,7 +48,8 @@ Yea, you understand the gist of how the Internet works... but do you *really* un
 
 <!-- ### GIT and Version Control -->
 
-<!-- ### Operating Systems & Command Line Interface -->
+### Operating Systems & Command Line Interface
+- [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics)
 
 ### Markdown
 - [The Markdown Tutorial](https://www.markdowntutorial.com/)
