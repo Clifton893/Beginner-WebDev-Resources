@@ -5,6 +5,12 @@ If you want to learn to code for free, or are new to how the web works, hopefull
 
 ## Understanding Code
 
+### How the Internet Works
+Yea, you understand the gist of how the Internet works... but do you *really* understand how it works?
+- [Bucky Roberts: "How the Internet Works"](https://www.youtube.com/watch?v=3q4xQss3fRY)
+- [CSS Tricks - "Chapter 1: Birth"](https://css-tricks.com/chapter-1-birth/)
+<-- What is an API? -->
+
 ### HTML
 - [HTML semantics]()
 
@@ -30,5 +36,5 @@ If you want to learn to code for free, or are new to how the web works, hopefull
 - [Pexels](https://www.pexels.com/)
 - [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
 
-## Morale, Confidence, and Perseverance
-[Why Learning to Code is So Damn Hard](https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/)
+### Morale, Confidence, and Perseverance
+
