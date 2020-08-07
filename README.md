@@ -18,3 +18,6 @@ This repository is a list of resources that have **personally** helped me in my 
 - [pixabay](https://pixabay.com/)
 - [Pexels](https://www.pexels.com/)
 - [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
+
+## Morale, Confidence, and Perseverance
+[Why Learning to Code is So Damn Hard](https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/)
