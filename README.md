@@ -50,6 +50,11 @@ Yea, you understand the gist of how the Internet works... but do you *really* un
 
 <!-- ### Operating Systems & Command Line Interface -->
 
+### Markdown
+- [The Markdown Tutorial](https://www.markdowntutorial.com/)
+- [Markdown Guide's Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+- [GitHub's Markdown Cheatsheet](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+
 ### Newsletters
 - [CSS-Tricks](https://css-tricks.com/) `An amazing library of web development information, advice, and how-tos for CSS`
 - [Smashing Magazine](https://www.smashingmagazine.com/) `Blending the technical aspect of web development with the design elements`
