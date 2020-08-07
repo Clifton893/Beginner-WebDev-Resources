@@ -26,6 +26,10 @@ Yea, you understand the gist of how the Internet works... but do you *really* un
 - [freeCodeCamp](https://www.freecodecamp.org/) `How I first learned anything about code`
 - [Dr. Angela Yu](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/) `Her Complete Webdev Bootcamp course on Udemy helped me get over my hump, and she's legitimately one of the best coding/programming teachers I've ever seen`
 
+<!-- ### GIT and Version Control -->
+
+<!-- ### Operating Systems & Command Line Interface -->
+
 ### Newsletters
 - [CSS-Tricks](https://css-tricks.com/) `An amazing library of web development information, advice, and how-tos for CSS`
 - [Smashing Magazine](https://www.smashingmagazine.com/) `Blending the technical aspect of web development with the design elements`
@@ -35,6 +39,3 @@ Yea, you understand the gist of how the Internet works... but do you *really* un
 - [pixabay](https://pixabay.com/)
 - [Pexels](https://www.pexels.com/)
 - [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
-
-### Morale, Confidence, and Perseverance
-
