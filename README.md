@@ -59,6 +59,7 @@ Yea, you understand the gist of how the Internet works... but do you *really* un
 ### Newsletters
 - [CSS-Tricks](https://css-tricks.com/) `An amazing library of web development information, advice, and how-tos for CSS`
 - [Smashing Magazine](https://www.smashingmagazine.com/) `Blending the technical aspect of web development with the design elements`
+- [Sidebar.io](https://sidebar.io/) `A CSS-heavy web design newsletter, sent every day`
 
 ### Free Images
 - [Unsplash](https://unsplash.com/)
