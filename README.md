@@ -23,14 +23,10 @@ The second paragraph text
 
 -->
 
-### How the Internet Works
-Yea, you understand the gist of how the Internet works... but do you *really* understand how it works?
+### The Fundamentals
 - [Bucky Roberts: "How the Internet Works"](https://www.youtube.com/watch?v=3q4xQss3fRY)
-- [CSS Tricks - "Chapter 1: Birth"](https://css-tricks.com/chapter-1-birth/)
-<!-- What is an API? -->
-
-### HTML
 - [freeCodeCamp: Basic HTML and HTML5](https://www.freecodecamp.org/learn) `Where I personally started, not knowing a single line of code`
+<!-- What is an API? -->
 
 <!-- ### CSS -->
 
