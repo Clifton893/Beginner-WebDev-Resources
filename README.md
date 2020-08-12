@@ -40,11 +40,6 @@ The second paragraph text
 - [Grid Garden](https://codepip.com/games/grid-garden/) `CSS`
 - [Grasshopper](https://grasshopper.app/) `JavaScript`
 
-### Premium Courses
-- [Dr. Angela Yu](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/) 
-
-Angela's Complete Webdev Bootcamp course on Udemy helped me get over my hump, and she's legitimately one of the best coding/programming teachers I've ever seen
-
 ### GIT and Version Control 
 - [Pro Git](https://git-scm.com/book/en/v2) (Free eBook)
 
@@ -66,3 +61,12 @@ Angela's Complete Webdev Bootcamp course on Udemy helped me get over my hump, an
 - [pixabay](https://pixabay.com/)
 - [Pexels](https://www.pexels.com/)
 - [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
+
+---
+
+## BONUS: Premium Content
+The goal of this repo--and my self-study!--was to be as frugal as possible.
+
+That said, [Dr. Angela Yu](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/)'s *The Complete 2020 Web Development Bootcamp* is by far the best investment I've made in my education. I found her course during one of those $15 sales, and it made a huge difference. Angela is a tremendous teacher, especially for visual learners. She did the nearly-impossible, and make me actually enjoy working with JavaScript.
+
+This course completely revamped my code journey. If you spot it during one of Udemy's big sales, I highly recommend you get it. It's well-worth the investment.
