@@ -24,23 +24,24 @@ The second paragraph text
 -->
 
 ### The Fundamentals
-- [Bucky Roberts: "How the Internet Works"](https://www.youtube.com/watch?v=3q4xQss3fRY)
-- [freeCodeCamp: Basic HTML and HTML5](https://www.freecodecamp.org/learn) `Where I personally started, not knowing a single line of code`
+- [Bucky Roberts: How the Internet Works](https://www.youtube.com/watch?v=3q4xQss3fRY)
+- [freeCodeCamp: Basic HTML and HTML5](https://www.freecodecamp.org/learn) `HTML, CSS`
+- [Bucky Roberts: Introduction to JavaScript](https://www.youtube.com/watch?v=yQaAGmHNn9s&list=PLXVO02Mvh8FgfH_uX9SnEMUK5xQADKOCp) `JavaScript`
+
 <!-- What is an API? -->
 
 <!-- ### CSS -->
 
-### JavaScript
-- [TheNewBoston: Bucky Roberts](https://www.youtube.com/watch?v=yQaAGmHNn9s&list=PLXVO02Mvh8FgfH_uX9SnEMUK5xQADKOCp) `Bar-none the most approachable, lovable, Everyman-resonating STEM tutor`
+<!-- ### JavaScript -->
 
 ### Practice, Practice, Practice
 - [Flexbox Froggy](https://flexboxfroggy.com/) `CSS`
 - [Grid Garden](https://codepip.com/games/grid-garden/) `CSS`
 - [Grasshopper](https://grasshopper.app/) `JavaScript`
 
-### Full-Stack
-- [freeCodeCamp](https://www.freecodecamp.org/) `How I first learned anything about code`
-- [Dr. Angela Yu](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/) `Her Complete Webdev Bootcamp course on Udemy helped me get over my hump, and she's legitimately one of the best coding/programming teachers I've ever seen`
+### Official Courses
+- [Dr. Angela Yu](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/) 
+Her Complete Webdev Bootcamp course on Udemy helped me get over my hump, and she's legitimately one of the best coding/programming teachers I've ever seen
 
 <!-- ### GIT and Version Control -->
 
