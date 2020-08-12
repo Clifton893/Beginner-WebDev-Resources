@@ -45,7 +45,8 @@ The second paragraph text
 
 Angela's Complete Webdev Bootcamp course on Udemy helped me get over my hump, and she's legitimately one of the best coding/programming teachers I've ever seen
 
-<!-- ### GIT and Version Control -->
+### GIT and Version Control 
+- [Pro Git](https://git-scm.com/book/en/v2) (Free eBook)
 
 ### Operating Systems & Command Line Interface
 - [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics)
