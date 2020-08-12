@@ -30,7 +30,7 @@ Yea, you understand the gist of how the Internet works... but do you *really* un
 <!-- What is an API? -->
 
 ### HTML
-- [HTML semantics]()
+- [freeCodeCamp: Basic HTML and HTML5](https://www.freecodecamp.org/learn) `Where I personally started, not knowing a single line of code`
 
 ### CSS
 - [Flexbox Froggy](https://flexboxfroggy.com/) `The best way to learn CSS Flexbox, in my opinion`
