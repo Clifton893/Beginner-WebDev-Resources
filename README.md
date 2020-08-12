@@ -55,7 +55,7 @@ Angela's Complete Webdev Bootcamp course on Udemy helped me get over my hump, an
 - [GitHub's Markdown Cheatsheet](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
 ### Newsletters
-- [CSS-Tricks](https://css-tricks.com/) `CSS`
+- [CSS-Tricks](https://css-tricks.com/) `HTML, CSS, JavaScript, UX/UI Design`
 - [Smashing Magazine](https://www.smashingmagazine.com/)
 - [Sidebar.io](https://sidebar.io/) `CSS, UX/UI Design`
 
