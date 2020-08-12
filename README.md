@@ -32,13 +32,15 @@ Yea, you understand the gist of how the Internet works... but do you *really* un
 ### HTML
 - [freeCodeCamp: Basic HTML and HTML5](https://www.freecodecamp.org/learn) `Where I personally started, not knowing a single line of code`
 
-### CSS
-- [Flexbox Froggy](https://flexboxfroggy.com/) `The best way to learn CSS Flexbox, in my opinion`
-- [Grid Garden](https://codepip.com/games/grid-garden/) `How I understood and grasped CSS grid functionality`
+<!-- ### CSS -->
 
 ### JavaScript
 - [TheNewBoston: Bucky Roberts](https://www.youtube.com/watch?v=yQaAGmHNn9s&list=PLXVO02Mvh8FgfH_uX9SnEMUK5xQADKOCp) `Bar-none the most approachable, lovable, Everyman-resonating STEM tutor`
-- [Grasshopper](https://grasshopper.app/) `A great way to practice JavaScript in bite-sized sessions, from the convenience of your phone`
+
+### Practice, Practice, Practice
+- [Flexbox Froggy](https://flexboxfroggy.com/) `CSS`
+- [Grid Garden](https://codepip.com/games/grid-garden/) `CSS`
+- [Grasshopper](https://grasshopper.app/) `JavaScript`
 
 ### Full-Stack
 - [freeCodeCamp](https://www.freecodecamp.org/) `How I first learned anything about code`
