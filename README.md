@@ -40,7 +40,7 @@ The second paragraph text
 - [Grid Garden](https://codepip.com/games/grid-garden/) `CSS`
 - [Grasshopper](https://grasshopper.app/) `JavaScript`
 
-### Official Courses
+### Premium Courses
 - [Dr. Angela Yu](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/) 
 
 Angela's Complete Webdev Bootcamp course on Udemy helped me get over my hump, and she's legitimately one of the best coding/programming teachers I've ever seen
