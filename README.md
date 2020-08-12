@@ -41,7 +41,8 @@ The second paragraph text
 
 ### Official Courses
 - [Dr. Angela Yu](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/) 
-Her Complete Webdev Bootcamp course on Udemy helped me get over my hump, and she's legitimately one of the best coding/programming teachers I've ever seen
+
+Angela's Complete Webdev Bootcamp course on Udemy helped me get over my hump, and she's legitimately one of the best coding/programming teachers I've ever seen
 
 <!-- ### GIT and Version Control -->
 
@@ -54,9 +55,9 @@ Her Complete Webdev Bootcamp course on Udemy helped me get over my hump, and she
 - [GitHub's Markdown Cheatsheet](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
 ### Newsletters
-- [CSS-Tricks](https://css-tricks.com/) `An amazing library of web development information, advice, and how-tos for CSS`
-- [Smashing Magazine](https://www.smashingmagazine.com/) `Blending the technical aspect of web development with the design elements`
-- [Sidebar.io](https://sidebar.io/) `A CSS-heavy web design newsletter, sent every day`
+- [CSS-Tricks](https://css-tricks.com/) `CSS`
+- [Smashing Magazine](https://www.smashingmagazine.com/)
+- [Sidebar.io](https://sidebar.io/) `CSS, UX/UI Design`
 
 ### Free Images
 - [Unsplash](https://unsplash.com/)
