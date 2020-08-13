@@ -53,6 +53,10 @@ The second paragraph text
 - [Markdown Guide's Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 - [GitHub's Markdown Cheatsheet](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
+<!-- ### Shields
+- Shields.io
+- SimpleIcons -->
+
 ### Newsletters
 - [CSS-Tricks](https://css-tricks.com/) `HTML, CSS, JavaScript, UX/UI Design`
 - [Smashing Magazine](https://www.smashingmagazine.com/)
