@@ -70,6 +70,22 @@ The second paragraph text
 
 ## Design 🎨
 
+### Iconography
+- FlatIcon
+- IconMonster
+
+### Fonts
+- Google Fonts
+- DaFonts
+
+### Color
+- Encycolorpedia
+- ColorHunt
+- Contrast Ratio
+- Contrast
+- Palettes
+- Adobe?
+
 ## BONUS: Premium Content
 The goal of this repo--and my self-study!--was to be as frugal as possible.
 
