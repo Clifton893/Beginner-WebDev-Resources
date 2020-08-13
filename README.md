@@ -96,3 +96,6 @@ The goal of this repo--and my self-study!--was to be as frugal as possible.
 That said, [Dr. Angela Yu](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/)'s *The Complete 2020 Web Development Bootcamp* is by far the best investment I've made in my education. I found her course during one of those $15 sales, and it made a huge difference. Angela is a tremendous teacher, especially for visual learners. She did the nearly-impossible, and make me actually enjoy working with JavaScript.
 
 This course completely revamped my code journey. If you spot it during one of Udemy's big sales, I highly recommend you get it. It's well-worth the investment.
+
+---
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
