@@ -71,8 +71,8 @@ The second paragraph text
 ## Design 🎨
 
 ### Iconography
-- FlatIcon
-- IconMonster
+- [FlatIcon](https://www.flaticon.com/)
+- [Simple Icons](https://simpleicons.org/)
 
 ### Fonts
 - Google Fonts
