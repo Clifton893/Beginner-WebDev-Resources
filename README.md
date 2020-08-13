@@ -74,6 +74,8 @@ The second paragraph text
 - [FlatIcon](https://www.flaticon.com/)
 - [Simple Icons](https://simpleicons.org/)
 
+<!-- 
+
 ### Fonts
 - Google Fonts
 - DaFonts
@@ -84,7 +86,9 @@ The second paragraph text
 - Contrast Ratio
 - Contrast
 - Palettes
-- Adobe?
+- Adobe? 
+
+-->
 
 ## BONUS: Premium Content
 The goal of this repo--and my self-study!--was to be as frugal as possible.
