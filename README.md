@@ -97,5 +97,5 @@ That said, [Dr. Angela Yu](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-20
 
 This course completely revamped my code journey. If you spot it during one of Udemy's big sales, I highly recommend you get it. It's well-worth the investment.
 
----
+## License
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
