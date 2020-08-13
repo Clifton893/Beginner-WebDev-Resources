@@ -23,6 +23,8 @@ The second paragraph text
 
 -->
 
+## Development
+
 ### The Fundamentals
 - [Bucky Roberts: How the Internet Works](https://www.youtube.com/watch?v=3q4xQss3fRY)
 - [freeCodeCamp: Basic HTML and HTML5](https://www.freecodecamp.org/learn) `HTML, CSS`
@@ -61,6 +63,8 @@ The second paragraph text
 - [pixabay](https://pixabay.com/)
 - [Pexels](https://www.pexels.com/)
 - [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
+
+## Design
 
 ## BONUS: Premium Content
 The goal of this repo--and my self-study!--was to be as frugal as possible.
