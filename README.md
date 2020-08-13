@@ -53,6 +53,10 @@ The second paragraph text
 - [Markdown Guide's Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 - [GitHub's Markdown Cheatsheet](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
+<!-- ### APIs
+- [Public APIs](https://github.com/public-apis/public-apis)
+-->
+
 <!-- ### Shields
 - Shields.io
 - SimpleIcons -->
