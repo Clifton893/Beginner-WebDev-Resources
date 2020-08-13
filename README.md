@@ -23,7 +23,7 @@ The second paragraph text
 
 -->
 
-## Development
+## Development ⚙️
 
 ### The Fundamentals
 - [Bucky Roberts: How the Internet Works](https://www.youtube.com/watch?v=3q4xQss3fRY)
@@ -64,7 +64,7 @@ The second paragraph text
 - [Pexels](https://www.pexels.com/)
 - [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
 
-## Design
+## Design 🎨
 
 ## BONUS: Premium Content
 The goal of this repo--and my self-study!--was to be as frugal as possible.
