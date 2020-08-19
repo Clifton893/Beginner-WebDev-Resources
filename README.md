@@ -45,13 +45,19 @@ The second paragraph text
 ### GIT and Version Control 
 - [Pro Git](https://git-scm.com/book/en/v2) (Free eBook)
 
-### Operating Systems & Command Line Interface
-- [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics)
-
 ### Markdown
 - [The Markdown Tutorial](https://www.markdowntutorial.com/)
 - [Markdown Guide's Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 - [GitHub's Markdown Cheatsheet](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+
+### Newsletters
+- [CSS-Tricks](https://css-tricks.com/) `HTML, CSS, JavaScript, UX/UI Design`
+- [Smashing Magazine](https://www.smashingmagazine.com/)
+- [Sidebar.io](https://sidebar.io/) `CSS, UX/UI Design`
+- [Figmalion](https://figmalion.com/) `Figma, UX/UI Design`
+
+### Operating Systems & Command Line Interface
+- [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics)
 
 <!-- ### APIs
 - [Public APIs](https://github.com/public-apis/public-apis)
@@ -61,23 +67,17 @@ The second paragraph text
 - [Shields.io](https://shields.io/)
 <!-- - **Inspiring GitHub Shield Use** -->
 
-### Newsletters
-- [CSS-Tricks](https://css-tricks.com/) `HTML, CSS, JavaScript, UX/UI Design`
-- [Smashing Magazine](https://www.smashingmagazine.com/)
-- [Sidebar.io](https://sidebar.io/) `CSS, UX/UI Design`
-- [Figmalion](https://figmalion.com/) `Figma, UX/UI Design`
-
 ## Design 🎨
-
-### Iconography
-- [FlatIcon](https://www.flaticon.com/)
-- [Simple Icons](https://simpleicons.org/)
 
 ### Free Images
 - [Unsplash](https://unsplash.com/)
 - [pixabay](https://pixabay.com/)
 - [Pexels](https://www.pexels.com/)
 - [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) (some; always check image details)
+
+### Iconography
+- [FlatIcon](https://www.flaticon.com/)
+- [Simple Icons](https://simpleicons.org/)
 
 <!-- 
 
