@@ -59,7 +59,7 @@ The second paragraph text
 
 ### Shields
 - [Shields.io](https://shields.io/)
-- [SimpleIcons(https://simpleicons.org/)
+<!-- - **Inspiring GitHub Shield Use** -->
 
 ### Newsletters
 - [CSS-Tricks](https://css-tricks.com/) `HTML, CSS, JavaScript, UX/UI Design`
