@@ -65,6 +65,7 @@ The second paragraph text
 - [CSS-Tricks](https://css-tricks.com/) `HTML, CSS, JavaScript, UX/UI Design`
 - [Smashing Magazine](https://www.smashingmagazine.com/)
 - [Sidebar.io](https://sidebar.io/) `CSS, UX/UI Design`
+- [Figmalion](https://figmalion.com/) `Figma, UX/UI Design`
 
 ### Free Images
 - [Unsplash](https://unsplash.com/)
