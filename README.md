@@ -67,17 +67,17 @@ The second paragraph text
 - [Sidebar.io](https://sidebar.io/) `CSS, UX/UI Design`
 - [Figmalion](https://figmalion.com/) `Figma, UX/UI Design`
 
-### Free Images
-- [Unsplash](https://unsplash.com/)
-- [pixabay](https://pixabay.com/)
-- [Pexels](https://www.pexels.com/)
-- [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) (some; always check image details)
-
 ## Design 🎨
 
 ### Iconography
 - [FlatIcon](https://www.flaticon.com/)
 - [Simple Icons](https://simpleicons.org/)
+
+### Free Images
+- [Unsplash](https://unsplash.com/)
+- [pixabay](https://pixabay.com/)
+- [Pexels](https://www.pexels.com/)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) (some; always check image details)
 
 <!-- 
 
