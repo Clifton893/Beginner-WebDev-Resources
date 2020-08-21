@@ -83,10 +83,10 @@ The second paragraph text
 - [Google Fonts](https://fonts.google.com/)
 <!-- - DaFonts -->
 
-<!--
 ### Color
-- [Encycolorpedia]()
+- [Encycolorpedia](https://encycolorpedia.com/)
 
+<!--
 - ColorHunt
 - Contrast Ratio
 - Contrast
