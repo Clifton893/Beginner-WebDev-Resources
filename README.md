@@ -79,14 +79,14 @@ The second paragraph text
 - [FlatIcon](https://www.flaticon.com/)
 - [Simple Icons](https://simpleicons.org/)
 
-<!-- 
-
 ### Fonts
-- Google Fonts
-- DaFonts
+- [Google Fonts](https://fonts.google.com/)
+<!-- - DaFonts -->
 
+<!--
 ### Color
-- Encycolorpedia
+- [Encycolorpedia]()
+
 - ColorHunt
 - Contrast Ratio
 - Contrast
