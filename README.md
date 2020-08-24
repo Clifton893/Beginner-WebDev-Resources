@@ -86,10 +86,12 @@ The second paragraph text
 ### Color
 - [Encycolorpedia](https://encycolorpedia.com/)
 
+### Contrast & Accessibility
+- [contrast ratio](https://contrast-ratio.com/) (Quick and easy)
+- [Contrast Checker](https://contrastchecker.com/) (Detailed, more nuance and options
+
 <!--
 - ColorHunt
-- Contrast Ratio
-- Contrast
 - Palettes
 - Adobe? 
 
