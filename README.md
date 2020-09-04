@@ -25,17 +25,18 @@ The second paragraph text
 
 ## Development ⚙️
 
-### The Fundamentals
+### How the Internet Works
 - [Bucky Roberts: How the Internet Works](https://www.youtube.com/watch?v=3q4xQss3fRY)
+- [freeCodeCamp: How HTTP Works](https://www.freecodecamp.org/news/how-the-internet-works/)
 - [freeCodeCamp: Basic HTML and HTML5](https://www.freecodecamp.org/learn) `HTML, CSS`
-- [Bucky Roberts: Introduction to JavaScript](https://www.youtube.com/watch?v=yQaAGmHNn9s&list=PLXVO02Mvh8FgfH_uX9SnEMUK5xQADKOCp) `JavaScript`
 - [Web Nerd Terminology (Explained)](https://css-tricks.com/web-nerd-terminology-explained/)
 
 <!-- What is an API? -->
 
 <!-- ### CSS -->
 
-<!-- ### JavaScript -->
+### JavaScript
+- [Bucky Roberts: Introduction to JavaScript](https://www.youtube.com/watch?v=yQaAGmHNn9s&list=PLXVO02Mvh8FgfH_uX9SnEMUK5xQADKOCp) `JavaScript`
 
 ### Practice, Practice, Practice
 - [Flexbox Froggy](https://flexboxfroggy.com/) `CSS`
