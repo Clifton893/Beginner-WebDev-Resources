@@ -70,11 +70,11 @@ The second paragraph text
 
 ## Design 🎨
 
-### Free Images
+### Image Resources
 - [Unsplash](https://unsplash.com/)
 - [pixabay](https://pixabay.com/)
 - [Pexels](https://www.pexels.com/)
-- [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) (some; always check image details)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
 
 ### Iconography
 - [FlatIcon](https://www.flaticon.com/)
