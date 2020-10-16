@@ -98,7 +98,7 @@ The second paragraph text
 
 -->
 
-## BONUS: Premium Content
+## BONUS: Premium Content 💰
 The goal of this repo was to be as frugal as possible.
 
 That said, [Dr. Angela Yu](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/)'s *The Complete 2020 Web Development Bootcamp* is by far the best investment I've made in my education. I found her course during one of those $15 sales, and it made a huge difference. Angela is a tremendous teacher, especially for visual learners. She did the nearly-impossible, and make me actually enjoy working with JavaScript.
