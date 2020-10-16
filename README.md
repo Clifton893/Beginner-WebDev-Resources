@@ -98,6 +98,10 @@ The second paragraph text
 
 -->
 
+## Workflow 🧑‍💻
+- [Microsoft OneNote](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app?ms.url=onenotecom&rtc=1)
+- [Trello](https://trello.com/en-US)
+
 ## BONUS: Premium Content 💰
 The goal of this repo was to be as frugal as possible.
 
